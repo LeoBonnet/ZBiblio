@@ -1,0 +1,10 @@
+c:\users\léo\documents\visual studio 2013\Projects\Zbiblio\Zbiblio\bin\Debug\Zbiblio.exe.config
+c:\users\léo\documents\visual studio 2013\Projects\Zbiblio\Zbiblio\bin\Debug\Zbiblio.exe
+c:\users\léo\documents\visual studio 2013\Projects\Zbiblio\Zbiblio\bin\Debug\Zbiblio.pdb
+c:\users\léo\documents\visual studio 2013\Projects\Zbiblio\Zbiblio\bin\Debug\Zbiblio.xml
+c:\users\léo\documents\visual studio 2013\Projects\Zbiblio\Zbiblio\obj\Debug\Zbiblio.Form1.resources
+c:\users\léo\documents\visual studio 2013\Projects\Zbiblio\Zbiblio\obj\Debug\Zbiblio.Resources.resources
+c:\users\léo\documents\visual studio 2013\Projects\Zbiblio\Zbiblio\obj\Debug\Zbiblio.vbproj.GenerateResource.Cache
+c:\users\léo\documents\visual studio 2013\Projects\Zbiblio\Zbiblio\obj\Debug\Zbiblio.exe
+c:\users\léo\documents\visual studio 2013\Projects\Zbiblio\Zbiblio\obj\Debug\Zbiblio.xml
+c:\users\léo\documents\visual studio 2013\Projects\Zbiblio\Zbiblio\obj\Debug\Zbiblio.pdb
